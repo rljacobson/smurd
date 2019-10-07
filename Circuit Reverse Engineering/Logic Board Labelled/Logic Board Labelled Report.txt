@@ -1,0 +1,46 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Logic Board Labelled.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: millimeters
+Artboard Dimensions: 859.0502 mm x 358.9018 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Helvetica Neue Medium (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/rjacobson/Google Drive/Hobbies/Electronics/Operations Keyboard/photos/Logic Board Panorama.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 75810K, 7870 by 3288 pixels
+Dimensions: 2435.103 by 1017.359 points 
+Resolution: 232.697 by 232.697 pixels per inch
