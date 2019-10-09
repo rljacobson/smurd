@@ -1,6 +1,6 @@
 # The Tardis Keyboard—Project Smurd
 
-For more information about Project Smurd, see [Keyboard Notes.md](Keyboard Notes.md).
+For more information about Project Smurd, see [Keyboard Notes.md](./Keyboard%20Notes.md).
 
 ## Contents
 
