@@ -116,6 +116,8 @@ See the files under Circuit Reverse Engineering for the traces identified and su
 |      | **LEDs On PCB:**              | **148** |
 |      | **Populated Indicator Keys:** | **43**  |
 
+5 Groups of 4 rows each with 8 columns each row
+
 # Logic Board
 
 ![photos/Logic Board Labelled.jpg](Logic Board Labelled.jpg)

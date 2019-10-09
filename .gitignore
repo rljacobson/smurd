@@ -1,5 +1,17 @@
-ignored
-buttons
-.idea
-Icon?
-.DS_Store
+**/.idea
+**/Icon?
+**/.DS_Store
+
+
+# Files I don't want in the repo.
+Arduino/Blink_Blue_Pill/
+Arduino/CD4067B_Test/
+Arduino/SN74HC595_Test/
+Arduino/ULN2003_Test/
+EEPROM/Z80\ Processor\ Manual\ -\ UM0080.pdf
+EEPROM/dg680/
+EEPROM/notes.md
+Keyboard\ Notes.pages
+Logic\ Board\ Labelled.jpg
+buttons/
+ignored/
