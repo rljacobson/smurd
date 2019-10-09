@@ -1,6 +1,8 @@
-# The Tardis Keyboard—Project Smurd
+# The Tardis Keyboard: <br>Project Smurd
 
 For more information about Project Smurd, see [Keyboard Notes.md](./Keyboard%20Notes.md).
+
+![Keyboard](Photos/IMG_6304CROPPED.JPG)
 
 ## Contents
 

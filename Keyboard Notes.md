@@ -12,7 +12,7 @@ There is a really weird keyboard on the console of the Tardis.
 
 As every Doctor Who Afficionado knows, there have been many different Tardis consoles throughout the show's history. Over at TardisBuilders.com you can learn that this keyboard—at least some of the buttons from it—first appeared in the "[Michael Pickwoad Console](http://tardisbuilders.com/index.php?board=144.0)" piloted by Matt Smith and Peter Capaldi, the Eleventh and Twelfth Doctors. The Tardis Keyboard is actually made out of key caps from an Operations Keyboard made by Empros Systems for the National Grid power company, and it is a monstrosity.
 
-![Photo of Operations Keyboard](Photos/IMG_6304.JPG)
+![Photo of Operations Keyboard](Photos/IMG_6304CROPPED.JPG)
 
 After they were decommissioned, some of these keyboards eventually found their way to [Bob's Bits](https://www.bobsbits.tv/), a supplier of technology props to the film and TV industry, which supplied components to the BBC for the Tardis console.
 
