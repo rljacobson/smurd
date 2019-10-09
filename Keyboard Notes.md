@@ -2,17 +2,17 @@
 
 There is a really weird keyboard on the console of the Tardis.
 
-<img src="photos/Tardis Reference 3.jpg" alt="Tardis Reference 3" style="zoom: 67%;" />
+![Tardis Reference 3](Photos/Tardis%20Reference%203.jpg)
 
-<img src="photos/Tardis Reference 1.jpg" alt="Tardis Reference 1"  />
+![Tardis Reference 1](Photos/Tardis%20Reference%201.jpg)
 
-<img src="photos/Tardis Reference 2.jpg" alt="Tardis Reference 2" style="zoom: 50%;" />
+![Tardis Reference 2](Photos/Tardis%20Reference%202.jpg)
 
-![Tardis Reference 5](photos/Tardis Reference 5.jpg)
+![Tardis Reference 5](Photos/Tardis%20Reference%205.jpg)
 
 As every Doctor Who Afficionado knows, there have been many different Tardis consoles throughout the show's history. Over at TardisBuilders.com you can learn that this keyboard—at least some of the buttons from it—first appeared in the "[Michael Pickwoad Console](http://tardisbuilders.com/index.php?board=144.0)" piloted by Matt Smith and Peter Capaldi, the Eleventh and Twelfth Doctors. The Tardis Keyboard is actually made out of key caps from an Operations Keyboard made by Empros Systems for the National Grid power company, and it is a monstrosity.
 
-![IMG_6304](photos/IMG_6304.JPG)
+![Photo of Operations Keyboard](Photos/IMG_6304.JPG)
 
 After they were decommissioned, some of these keyboards eventually found their way to [Bob's Bits](https://www.bobsbits.tv/), a supplier of technology props to the film and TV industry, which supplied components to the BBC for the Tardis console.
 
@@ -20,13 +20,13 @@ After they were decommissioned, some of these keyboards eventually found their w
 
 The date codes on the IC chips indicate the device was manufactured no earlier than 1988, and the last service date is 1992, perhaps indicating when the keyboard was decommissioned. The keyboard bears service stickers with markings of both Empros Systems International, which designs utility power control systems, and Control Data Corporation, a mainframe systems company. Both companies were owned by the same parent company at that time. 
 
-<img src="photos/IMG_6295.jpg" alt="IMG_6295" style="zoom: 25%;" />
+[Photo of Operations Keyboard Stickers](Photos/IMG_6295.jpg)
 
 
 
 That is virtually everything that is known about this device. The only other interesting piece of information available is this curious alternative version of the keyboard a photo of which below was sent in to [Xah Lee's keyboard website](http://xahlee.info/kbd/ibm_elect_dist_keyboard.html):
 
-![photos/IBM Keyboard.jpg](photos/IBM Keyboard.jpg)
+![IBM Keyboard](Photos/IBM%20Keyboard.jpg)
 
 Notice the **IBM** badge, identical housing and keycaps and layout, extremely similar keycap labels, and an American **$** instead of the British **£**.
 
@@ -43,11 +43,11 @@ Googling turns up absolutely nothing else about it.
 
 The keyboard has 244 keys many of which have amusing labels like "RETRO TIME FWD," "APPLY EARTH," and my favorite, "SMURD."
 
-![Top View](photos/Top View.jpg)
+![Top View](Photos/Top%20View.jpg)
 
 The Tardis keyboard doesn't include all of the keys, but you will be relieved to know that The Doctor is still able to SMURD if the occasion should require it.
 
-<img src="photos/Tardis Reference 6.jpg" alt="Tardis Reference 3"  />
+![Tardis Reference 3](Photos/Tardis%20Reference%206.jpg)
 
 For the mechanical keyboard enthusiasts out there: The switches are Cherry MX’s, and the consensus seems to be that the keycaps are DSA (available from [Signature Plastics](https://pimpmykeyboard.com/dsa-eve-keyset/)). *However*, I am in agreement with the [minority opinion offered by someone on reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/cld26u/i_dont_know_anything_about_keyboards_does_this/evwsjoz/) (slightly edited and link added):
 
@@ -59,7 +59,7 @@ For the mechanical keyboard enthusiasts out there: The switches are Cherry MX’
 
 You can't just plug this thing into your computer. USB ports weren't a thing in 1992. This keyboard doesn't even have the 1992 equivalent keyboard connector.
 
-![Rear Panorama](photos/Rear Panorama.jpg)
+![Rear Panorama](Photos/Rear%20Panorama.jpg)
 
 What we have is both a 50 pin and a 9-pin D-Sub connector on either side as well as two RJ45 jack ports that are apparently not utilized in this particular model of the device.
 
@@ -81,7 +81,7 @@ See the files under Circuit Reverse Engineering for the traces identified and su
 | **Actual PCB Positions:** | **251** |             |          |
 |       **Populated Keys:** | **244** |             |          |
 
-<img src="photos/Button Matrix PCB.jpg" alt="photos/Button Matrix PCB.jpg" style="zoom: 25%;" />
+![Button Matrix PCB](Photos/Button%20Matrix%20PCB.jpg)
 
 ## LEDs
 
@@ -120,7 +120,7 @@ See the files under Circuit Reverse Engineering for the traces identified and su
 
 # Logic Board
 
-![photos/Logic Board Labelled.jpg](Logic Board Labelled.jpg)
+![Logic Board Labelled](Photos/Logic%20Board%20Labelled.jpg)
 
 See Circuit Reverse Engineering for a significant portion of the traces identified and superimposed on the PCB.
 
