@@ -20,8 +20,7 @@ After they were decommissioned, some of these keyboards eventually found their w
 
 The date codes on the IC chips indicate the device was manufactured no earlier than 1988, and the last service date is 1992, perhaps indicating when the keyboard was decommissioned. The keyboard bears service stickers with markings of both Empros Systems International, which designs utility power control systems, and Control Data Corporation, a mainframe systems company. Both companies were owned by the same parent company at that time. 
 
-[Photo of Operations Keyboard Stickers](Photos/IMG_6295.jpg)
-
+![Photo of Operations Keyboard Stickers](Photos/IMG_6295.jpg)
 
 
 That is virtually everything that is known about this device. The only other interesting piece of information available is this curious alternative version of the keyboard a photo of which below was sent in to [Xah Lee's keyboard website](http://xahlee.info/kbd/ibm_elect_dist_keyboard.html):
