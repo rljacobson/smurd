@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-17T17:46:49Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Key Matrix Scanner v3"
+        },
+        "Owner": "Robert Jacobson <rljacobson@gmail.com>",
+        "Size": {
+            "X": 74.0972,
+            "Y": 98.8824
+        }
+    }
+}

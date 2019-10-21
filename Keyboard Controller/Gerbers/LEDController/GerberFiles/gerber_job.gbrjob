@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-10-18T04:39:47Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "LED Controller"
+        },
+        "Owner": "Robert Jacobson <rljacobson@gmail.com>",
+        "Size": {
+            "X": 67.29,
+            "Y": 86.36
+        }
+    }
+}

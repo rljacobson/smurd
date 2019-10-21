@@ -1,0 +1,12 @@
+Partlist exported from /Users/rjacobson/Google Drive/EAGLE/projects/Operator Keyboard/Key Matrix Scanner v3.sch at 9/17/19 1:46 PM
+
+Qty Value    Device        Package Parts                  Description                        MF MPN OC_FARNELL OC_NEWARK POPULARITY
+2            PINHD-1X20    1X20    MCHDR1, MCHDR2         PIN HEADER                                                     6         
+2            PINHD-2X10    2X10    LEDCONN, LEDHDR        PIN HEADER                                                     7         
+1            PINHD-2X30/90 2X30/90 KEYCONN                PIN HEADER                                                     0         
+1            PINHD-2X5     2X05    REGCTRL                PIN HEADER                                                     35        
+3   10K      G08R          SIL9    RN2, RN3, RN4          SIL RESISTOR                              unknown    unknown   6         
+1   10K      R-US_0204/7   0204/7  R1                     RESISTOR, American symbol                                                
+1   10K      RN05          RN-6    RN1                    RESISTOR NETWORK                          unknown    unknown   0         
+3   4067N    4067N         DIL24-6 DEMUXA, DEMUXB, DEMUXC 16-channel ANALOG MULTIPLEXER                                  0         
+2   74HC595N 74HC595N      DIL16   REG1, REG2             8-bit SHIFT REGISTER, output latch                             0         

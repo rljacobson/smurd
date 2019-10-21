@@ -1,0 +1,9 @@
+Partlist exported from /Users/rljacobson/Google Drive/EAGLE/projects/Operator Keyboard/LED Controller.sch at 10/18/19 12:39 AM
+
+Qty Value    Device        Package Parts                              Description                        MF MPN OC_FARNELL OC_NEWARK POPULARITY
+2            PINHD-2X10    2X10    LEDHDR, MCUCONN                    PIN HEADER                                                     7         
+1            PINHD-2X30/90 2X30/90 KEYBRDCONN                         PIN HEADER                                                     0         
+2   10K      R-US_VMTA55   VMTA55  R1, R2                             RESISTOR, American symbol                                                
+1   220      RN08          RN-9    RN1                                RESISTOR NETWORK                          unknown    unknown   1         
+4   74LS595N 74LS595N      DIL16   REG3, REG4, REG5, REG6             8-bit SHIFT REGISTER, output latch                             0         
+4   UDN2982A UDN2982A      DIL18   DRIVER1, DRIVER2, DRIVER3, DRIVER4                                                                          
