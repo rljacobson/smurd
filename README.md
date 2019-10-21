@@ -1,4 +1,4 @@
-# The Tardis Keyboard: <br>Project Smurd
+# The Tardis Keyboard Computer: <br>Project Smurd
 
 For more information about Project Smurd, see [Keyboard Notes.md](./Keyboard%20Notes.md).
 

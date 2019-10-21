@@ -76,7 +76,7 @@ See the files under Circuit Reverse Engineering for the traces identified and su
 | ------------------------: | ------- | ----------- | -------- |
 |                       1-8 | 8       | Rows        | Ground   |
 |                     27-58 | 32      | Columns     | Power    |
-|             **Possible:** | **256** |             |          |
+|          **Addressable:** | **256** |             |          |
 | **Actual PCB Positions:** | **251** |             |          |
 |       **Populated Keys:** | **244** |             |          |
 
